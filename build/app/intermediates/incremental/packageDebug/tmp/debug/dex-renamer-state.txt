@@ -1,0 +1,4 @@
+#Sun Nov 20 05:52:40 ICT 2022
+base.0=D\:\\STTB\\SEMESTER 5\\Pemrograman Mobile II\\UTSMobile2\\tugasmobile2-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
